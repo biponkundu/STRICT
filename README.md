@@ -1,0 +1,2 @@
+# STRICT
+psd to html
